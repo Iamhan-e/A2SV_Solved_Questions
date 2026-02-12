@@ -1,0 +1,1 @@
+{"name":"Local: Dominant Character","url":"c:\\Users\\Admin\\Desktop\\A2SV_Solved_Questions\\Dominant Character.py","tests":[{"id":1770820417519,"input":"3\n2\naa\n5\ncbabb\n8\ncacabccc","output":"2\n-1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\A2SV_Solved_Questions\\Dominant Character.py","group":"local","local":true}
