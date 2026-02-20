@@ -34,6 +34,7 @@ def solve():
             else: break
             
         r_count = 0
+        
         for char in reversed(s):
             if char == '>': r_count += 1
             else: break
