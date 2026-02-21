@@ -1,0 +1,1 @@
+{"name":"Local: missing number","url":"c:\\Users\\Admin\\Desktop\\A2SV_Solved_Questions\\contest\\missing number.py","tests":[{"id":1771657408693,"input":"10\n3 8 10 1 7 9 6 5 2","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\A2SV_Solved_Questions\\contest\\missing number.py","group":"local","local":true}
