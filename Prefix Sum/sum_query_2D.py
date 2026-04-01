@@ -3,7 +3,7 @@ class NumMatrix:
     def __init__(self, matrix: List[List[int]]):
         
         if not matrix or not matrix[0]:
-            self.prefix = []          
+            self.prefix= []          
             return
 
         m, n = len(matrix), len(matrix[0])
